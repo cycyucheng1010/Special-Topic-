@@ -2,6 +2,7 @@
 ## 長茂
 ## 玉尚
 ## 建同
+## 共同參考資料
 * 專案參考
    * [團子翻譯](https://github.com/PantsuDango/Dango-Translator) 
        * 這個是ocr翻譯的 我覺得可以參考
