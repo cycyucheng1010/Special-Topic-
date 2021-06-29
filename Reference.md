@@ -5,8 +5,8 @@
 * [flutter上傳檔案(還沒找到)]
 * [B站好客租房](https://www.bilibili.com/video/BV1fN411f7T5?p=28)
 * cache
-   [flutter_cache_manager]https://pub.dev/packages/flutter_cache_manager#-readme-tab-
-   [參考](https://www.gushiciku.cn/pl/pXEP/zh-tw)
+   * [flutter_cache_manager]https://pub.dev/packages/flutter_cache_manager#-readme-tab-
+   * [參考](https://www.gushiciku.cn/pl/pXEP/zh-tw)
  
 ## 玉尚
 ## 建同
