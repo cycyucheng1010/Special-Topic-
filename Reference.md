@@ -1,6 +1,8 @@
 ## 昱誠
 * [從零開始的Flutter世界](https://ithelp.ithome.com.tw/users/20118479/ironman/3025?fbclid=IwAR0nFMUVaDwvgdpZmloWKmfBdqrANitYvFUIRxxPaoY7Ul5r_UuNZq-ED5k)
 ## 長茂
+* [flutter錄音](https://pub.dev/packages/flutter_sound)
+* [flutter上傳檔案(還沒找到)]
 ## 玉尚
 ## 建同
 ## 共同參考資料
