@@ -3,6 +3,7 @@
 ## 長茂
 * [flutter錄音](https://pub.dev/packages/flutter_sound)
 * [flutter上傳檔案(還沒找到)]
+* [B站好客租房](https://www.bilibili.com/video/BV1fN411f7T5?p=28)
 ## 玉尚
 ## 建同
 ## 共同參考資料
