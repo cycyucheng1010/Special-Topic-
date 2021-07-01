@@ -1,3 +1,6 @@
+// 2021.07.01 by YuCheng
+// just basic test for dart 
+
 main()
 {
   /* 基本型態練習 */
