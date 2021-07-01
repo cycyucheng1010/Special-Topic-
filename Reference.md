@@ -1,5 +1,6 @@
 ## 昱誠
 * [從零開始的Flutter世界](https://ithelp.ithome.com.tw/users/20118479/ironman/3025?fbclid=IwAR0nFMUVaDwvgdpZmloWKmfBdqrANitYvFUIRxxPaoY7Ul5r_UuNZq-ED5k)
+* [新手試試用Flutter做Netflix UI](https://ithelp.ithome.com.tw/users/20130593/ironman/3677)
 ## 長茂
 * [flutter錄音](https://pub.dev/packages/flutter_sound)
 * [flutter上傳檔案(還沒找到)]
