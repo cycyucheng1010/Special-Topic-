@@ -13,6 +13,8 @@
 * [[Python] 使用 googletrans 套件來進行 Google 翻譯](https://clay-atlas.com/blog/2020/05/05/python-cn-note-package-googletrans-google-translate/)
 * [Flutter Tutorial - Speech To Text & Voice Recognition](https://github.com/JohannesMilke/speech_to_text_example)
 * [speech_to_text 4.2.1](https://pub.dev/packages/speech_to_text)
+* [translator-Free Google Translate API for Dart](https://pub.dev/packages/translator)
+* [Multi-Language Translator In Flutter](https://medium.com/flutterdevs/multi-language-translator-in-flutter-14b927a0e777)
 ## 共同參考資料
 * 專案參考
    * [團子翻譯](https://github.com/PantsuDango/Dango-Translator) 
