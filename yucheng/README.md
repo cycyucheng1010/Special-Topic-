@@ -6,3 +6,6 @@
 * [Day04 Dart 語言介紹(二) 資料型態、條件式、迴圈](https://ithelp.ithome.com.tw/articles/10239747)
 * [test1](https://github.com/cycyucheng1010/Special-Topic-/blob/master/yucheng/test1.dart)
 ## 20210705
+* [Day05 Dart 語言介紹(三) 類別、函式](https://ithelp.ithome.com.tw/articles/10240432)
+* [Day06 Dart 語言介紹(四) static、Exception](https://ithelp.ithome.com.tw/articles/10241088)
+* [Day07 Dart 語言介紹(五) 繼承、多型](https://ithelp.ithome.com.tw/articles/10241767)
