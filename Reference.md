@@ -12,6 +12,10 @@
    * [參考](https://www.gushiciku.cn/pl/pXEP/zh-tw)
  
 ## 玉尚
+* [五款翻譯軟件之比較](https://kknews.cc/zh-mo/tech/4bag3px.html)
+* [DeepL補充](https://techacute.com/deepl-translation-new-glossary/)
+* [翻譯框架](https://neohsuxoops.blogspot.com/2019/05/googlecss-neil-hsu.html)
+* [GTranslate](https://www.techmarks.com/gtranslate/)
 ## 建同
 * [[Python] 使用 googletrans 套件來進行 Google 翻譯](https://clay-atlas.com/blog/2020/05/05/python-cn-note-package-googletrans-google-translate/)
 * [Flutter Tutorial - Speech To Text & Voice Recognition](https://github.com/JohannesMilke/speech_to_text_example)
