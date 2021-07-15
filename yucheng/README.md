@@ -12,3 +12,5 @@
 * [Day08 Dart 語言介紹(六) 抽象類別、介面、混合類別](https://ithelp.ithome.com.tw/articles/10242009)
 * [Day09 Dart 語言介紹(七) 泛型、Extension](https://ithelp.ithome.com.tw/articles/10243264)
 * [Day10 Dart 語言介紹<八> 非同步 Asynchrony support](https://ithelp.ithome.com.tw/articles/10243766)
+## 20210706
+* [How to Install Flutter on Ubuntu 20.10 with Android Studio | Updated 2021](https://www.youtube.com/watch?v=cYB_I6pPHiQ)
