@@ -14,3 +14,5 @@
 * [Day10 Dart 語言介紹<八> 非同步 Asynchrony support](https://ithelp.ithome.com.tw/articles/10243766)
 ## 20210706
 * [How to Install Flutter on Ubuntu 20.10 with Android Studio | Updated 2021](https://www.youtube.com/watch?v=cYB_I6pPHiQ)
+## 20210716
+* [2021Flutter从零到app上架](https://www.bilibili.com/video/BV1pp4y187w6?from=search&seid=554755650400808027)
