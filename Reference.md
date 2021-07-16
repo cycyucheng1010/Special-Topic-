@@ -22,6 +22,7 @@
 * [speech_to_text 4.2.1](https://pub.dev/packages/speech_to_text)
 * [translator-Free Google Translate API for Dart](https://pub.dev/packages/translator)
 * [Multi-Language Translator In Flutter](https://medium.com/flutterdevs/multi-language-translator-in-flutter-14b927a0e777)
+* 
 ## 共同參考資料
 * 專案參考
    * [團子翻譯](https://github.com/PantsuDango/Dango-Translator) 
