@@ -36,4 +36,6 @@
    * [flitto翻譯](https://zh-tw.flitto.com/language/translation/text)
    * [DeepL](https://www.deepl.com/translator)
 * [the flutter way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
+* Git
+  * [參考資料]
 
