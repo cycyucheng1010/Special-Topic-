@@ -3,6 +3,7 @@
 * [新手試試用Flutter做Netflix UI](https://ithelp.ithome.com.tw/users/20130593/ironman/3677)
 * [Dart 食之無味,棄之可惜](https://ithelp.ithome.com.tw/articles/10243381)
 * [ccc109.se](https://gitlab.com/ccc109/se/-/tree/master/_more/dart)
+* [Flutter中文网](https://flutterchina.club/)
 ## 長茂
 * [flutter錄音](https://pub.dev/packages/flutter_sound)
 * [flutter上傳檔案(還沒找到)]
