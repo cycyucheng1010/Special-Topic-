@@ -39,4 +39,10 @@
 * [the flutter way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw)
 * Git
   * [參考資料](https://www.bilibili.com/video/BV1vy4y1s7k6?from=search&seid=1152635488745955276)
-
+* 20210721
+  * [【Flutter实战】高仿微信实战](https://www.bilibili.com/video/BV12U4y1G7wc?from=search&seid=13434719939707678479)
+  * [flutter_sound](https://pub.dev/packages/flutter_sound)
+  * [austin362667/Joalarm3.0](https://github.com/austin362667/Joalarm3.0/blob/main/lib/loginPage.dart)
+  * [Flutter || Language Translation || Google Translation](https://www.youtube.com/watch?v=mWZEfPA7mx8)
+  * [Flutter中文网](https://flutterchina.club/)
+  * [django开发post接口简单案例，获取参数值](https://blog.csdn.net/t8116189520/article/details/82015431)
