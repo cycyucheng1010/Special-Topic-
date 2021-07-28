@@ -4,6 +4,7 @@
 * [Dart 食之無味,棄之可惜](https://ithelp.ithome.com.tw/articles/10243381)
 * [ccc109.se](https://gitlab.com/ccc109/se/-/tree/master/_more/dart)
 * [Flutter中文网](https://flutterchina.club/)
+* [【狀況題】有些檔案我不想放在 Git 裡面…](https://gitbook.tw/chapters/using-git/ignore.html)
 ## 長茂
 * [flutter錄音](https://pub.dev/packages/flutter_sound)
 * [flutter上傳檔案(還沒找到)]
