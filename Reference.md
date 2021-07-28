@@ -5,6 +5,8 @@
 * [ccc109.se](https://gitlab.com/ccc109/se/-/tree/master/_more/dart)
 * [Flutter中文网](https://flutterchina.club/)
 * [【狀況題】有些檔案我不想放在 Git 裡面…](https://gitbook.tw/chapters/using-git/ignore.html)
+* [箭頭函式](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+* [鐵人賽：JavaScript Await 與 Async](https://wcc723.github.io/javascript/2017/12/30/javascript-async-await/)
 ## 長茂
 * [flutter錄音](https://pub.dev/packages/flutter_sound)
 * [flutter上傳檔案(還沒找到)]
