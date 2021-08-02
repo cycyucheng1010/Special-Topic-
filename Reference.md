@@ -7,6 +7,9 @@
 * [【狀況題】有些檔案我不想放在 Git 裡面…](https://gitbook.tw/chapters/using-git/ignore.html)
 * [箭頭函式](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [鐵人賽：JavaScript Await 與 Async](https://wcc723.github.io/javascript/2017/12/30/javascript-async-await/)
+* [Puppeteer 与 Chrome Headless —— 从入门到爬虫](https://www.daimajiaoliu.com/daima/4ef312bea9003e0)
+* [Flutter全棧開發體驗——爬蟲與服務端](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/657990/)
+* 
 ## 長茂
 * [flutter錄音](https://pub.dev/packages/flutter_sound)
 * [flutter上傳檔案(還沒找到)]
