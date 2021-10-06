@@ -1,6 +1,5 @@
 # Special Topic
-## Our Topic : 機器學習運用於醫學影像分析 
-
+## Our Topic : 機器學習運用於醫學影像分析 -以阿茲海默症為例
 ## member
 * 昱誠
 * 玉尚
